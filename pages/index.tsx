@@ -2,11 +2,11 @@ import { NowPlaying } from "../components";
 import Image from "next/image";
 import Banners from "../components/Banner";
 
-const name = "L RMN";
+const name = "Fruatre";
 const belowLink = "いつか、私がヒトじゃなくなっても";
 /*const bio = "Blogger | Dreamer | Observer 🗿";*/
 
-const servername = "Made by tragic";
+const servername = "Made by Fruatre";
 
 export default function Home() {
   return (
