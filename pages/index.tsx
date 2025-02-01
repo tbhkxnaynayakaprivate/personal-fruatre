@@ -121,43 +121,6 @@ export default function Home() {
                           <path d="M32 0C14.3 0 0 14.337 0 32c0 17.7 14.337 32 32 32 17.7 0 32-14.337 32-32S49.663 0 32 0zm14.68 46.184c-.573.956-1.797 1.223-2.753.65-7.532-4.588-16.975-5.62-28.14-3.097-1.07.23-2.14-.42-2.37-1.49s.42-2.14 1.49-2.37c12.196-2.79 22.67-1.606 31.082 3.556a2 2 0 0 1 .688 2.753zm3.9-8.717c-.726 1.185-2.256 1.53-3.44.84-8.602-5.276-21.716-6.805-31.885-3.747-1.338.382-2.714-.344-3.097-1.644-.382-1.338.344-2.714 1.682-3.097 11.622-3.517 26.074-1.835 35.976 4.244 1.147.688 1.49 2.217.765 3.403zm.344-9.1c-10.323-6.117-27.336-6.69-37.2-3.708-1.568.497-3.25-.42-3.747-1.988s.42-3.25 1.988-3.747c11.317-3.44 30.127-2.753 41.98 4.282 1.415.84 1.873 2.676 1.032 4.09-.765 1.453-2.638 1.912-4.053 1.07z"></path>
                         </svg>
                       </a>
-                      <a
-                        rel="noopener noreferrer nofollow"
-                        target="_blank"
-                        href="/pinterest"
-                        className="flex cursor-pointer items-center justify-center rounded-full border-white border-opacity-10 bg-opacity-10 p-1.5 transition-all"
-                      >
-                        <svg
-                          className="text-red h-6 transition-all"
-                          viewBox="0 0 32 32"
-                          fill="#E60023"
-                          xmlns="http://www.w3.org/2000/svg"
-                        >
-                          <path d="M16.132 0a16 16 0 0 0-5.771 30.952c-.13-1.312-.262-3.148 0-4.6l1.836-8a5.771 5.771 0 0 1-.525-2.361c0-2.23 1.312-3.935 2.885-3.935s1.967 1.05 1.967 2.23-.918 3.4-1.312 5.377.787 2.885 2.36 2.885 4.984-3.016 4.984-7.344-2.754-6.558-6.69-6.558-7.082 3.54-7.082 7.082c0 1.312.525 2.885 1.18 3.672a.525.525 0 0 1 .131.393l-.393 1.836c-.13.262-.262.393-.525.262-1.967-.918-3.28-3.803-3.28-6.164 0-4.984 3.672-9.705 10.623-9.705s9.836 3.935 9.836 9.18-3.54 9.968-8.263 9.968c-1.574 0-3.148-.787-3.672-1.836l-1.05 3.803c-.393 1.443-1.312 3.148-1.967 4.197A16 16 0 1 0 16.132 0z"></path>
-                          <title>Pinterest</title>
-                        </svg>
-                      </a>
-                      <a
-                        rel="noopener noreferrer nofollow"
-                        target="_blank"
-                        href="/patreon"
-                        className="h-6 fill-current text-primary transition-all dark:text-gray-200"
-                      >
-                        <svg
-                          width="800"
-                          height="800"
-                          viewBox="0 -4.5 256 256"
-                          fill="#ffffff"
-                          xmlns="http://www.w3.org/2000/svg"
-                          className="h-6 w-6"
-                        >
-                          <path
-                            d="M45.1355837,0 L45.1355837,246.35001 L0,246.35001 L0,0 L45.1355837,0 Z M163.657111,0 C214.65668,0 256,41.3433196 256,92.3428889 C256,143.342458 214.65668,184.685778 163.657111,184.685778 C112.657542,184.685778 71.3142222,143.342458 71.3142222,92.3428889 C71.3142222,41.3433196 112.657542,0 163.657111,0 Z"
-                            fill="#FF424D"
-                          ></path>
-                          <title>Patreon</title>
-                        </svg>
-                      </a>
                       <div className="flex items-center">
                         <div className="mx-auto inline-block">
                           <div className="flex cursor-pointer items-center justify-center space-x-2 rounded-full border-white border-opacity-10 px-2 py-2 hover:bg-white hover:bg-opacity-5">
@@ -194,20 +157,20 @@ export default function Home() {
                               <span className="relative mt-2 flex w-full flex-row items-center justify-between rounded bg-zinc-900 text-sm leading-tight">
                                 <div className="flex items-center justify-center">
                                   <div className="flex h-16 w-16 items-center justify-center rounded bg-zinc-800 bg-opacity-50">
-                                    <span className="">🌐</span>
+                                    <span className=""> 💌 </span>
                                   </div>
                                   <div className="mx-4 flex flex-col">
                                     <span
                                       title="Nothing"
                                       className="text-ellipsis text-[16px] text-zinc-400"
                                     >
-                                      Personal Website
+                                      Contact Owner
                                     </span>
                                     <span
                                       title="Nothing"
                                       className="xs:w-[220px] mt-1 w-[175px] truncate text-ellipsis whitespace-nowrap text-[14px] text-zinc-700 sm:w-[275px] md:w-[340px] lg:w-[400px]"
                                     >
-                                      Explore my biography, projects, and more
+                                      Contact Me On Whatsapp
                                     </span>
                                   </div>
                                 </div>
@@ -238,20 +201,20 @@ export default function Home() {
                               <span className="relative mt-2 flex w-full flex-row items-center justify-between rounded bg-zinc-900 text-sm leading-tight">
                                 <div className="flex items-center justify-center">
                                   <div className="flex h-16 w-16 items-center justify-center rounded bg-zinc-800 bg-opacity-50">
-                                    <span className=""> 📸 </span>
+                                    <span className=""> 🔗 </span>
                                   </div>
                                   <div className="mx-4 flex flex-col">
                                     <span
                                       title="Nothing"
                                       className="text-ellipsis text-[16px] text-zinc-400"
                                     >
-                                      Virtual Photography
+                                      Group Whatsapp
                                     </span>
                                     <span
                                       title="Web toolbox"
                                       className="xs:w-[220px] mt-1 w-[175px] truncate text-ellipsis whitespace-nowrap text-[14px] text-zinc-700 sm:w-[275px] md:w-[340px] lg:w-[400px]"
                                     >
-                                      A collection of my in-game photography
+                                      Whatsapp groups to communicate with new friends and play with bots
                                     </span>
                                   </div>
                                 </div>
@@ -289,13 +252,13 @@ export default function Home() {
                                       title="Nothing"
                                       className="text-ellipsis text-[16px] text-zinc-400"
                                     >
-                                      Mewwme&apos;s
+                                      Fruatre&apos;s
                                     </span>
                                     <span
                                       title=""
                                       className="xs:w-[220px] mt-1 w-[175px] truncate text-ellipsis whitespace-nowrap text-[14px] text-zinc-700 sm:w-[275px] md:w-[340px] lg:w-[400px]"
                                     >
-                                      The music bot that fills your server with endless melodies
+                                      Bots that can complete all work in a short time
                                     </span>
                                   </div>
                                 </div>
@@ -326,20 +289,20 @@ export default function Home() {
                               <span className="relative mt-2 flex w-full flex-row items-center justify-between rounded bg-zinc-900 text-sm leading-tight">
                                 <div className="flex items-center justify-center">
                                   <div className="flex h-16 w-16 items-center justify-center rounded bg-zinc-800 bg-opacity-50">
-                                    <span className=""> 💸 </span>
+                                    <span className=""> 🔗 </span>
                                   </div>
                                   <div className="mx-4 flex flex-col">
                                     <span
                                       title="Nothing"
                                       className="text-ellipsis text-[16px] text-zinc-400"
                                     >
-                                      Potencial Airdrop
+                                      Channel Whatsapp
                                     </span>
                                     <span
                                       title=""
                                       className="xs:w-[220px] mt-1 w-[175px] truncate text-ellipsis whitespace-nowrap text-[14px] text-zinc-700 sm:w-[275px] md:w-[340px] lg:w-[400px]"
                                     >
-                                      Looking for a way to earn passive income effortlessly?
+                                      WhatsApp channel for sharing info and codes about bots
                                     </span>
                                   </div>
                                 </div>
@@ -372,9 +335,9 @@ export default function Home() {
             <div className="flex items-center justify-center rounded-full bg-primary bg-opacity-90 text-xs font-medium text-banner">
               <footer>
                 <div className="container mx-auto text-center">
-                  Made by TRAGIC in BOGOR
+                  Made by Fruatre Maou
                   <p className="text-gray text-s">
-                    © 2023 L RMN. All rights reserved.
+                    © 2025 Fruatre. All rights reserved.
                   </p>
                 </div>
               </footer>
