@@ -18,22 +18,22 @@ module.exports = {
     return [
       {
         source: '/profile',
-        destination: 'https://lrmn.is-a.fun/',
+        destination: 'https://wa.me/6285817597752',
         permanent: true,
       },
       {
         source: '/virtualphotography',
-        destination: 'https://vp.lrmn.fun/',
+        destination: 'https://chat.whatsapp.com/KItFUDJ1Jwo58czZgZYhnN',
         permanent: true,
       },
       {
         source: '/airdrop',
-        destination: 'https://lrmn-airdrop.vercel.app/',
+        destination: 'https://whatsapp.com/channel/0029VaNR2B6BadmioY6mar3N',
         permanent: true,
       },
       {
         source: '/mybot',
-        destination: 'https://mewwme.is-a.fun/',
+        destination: 'https://wa.me/6285212413931?text=.menu',
         permanent: true,
       },
       {
@@ -52,20 +52,10 @@ module.exports = {
         permanent: true,
       },
       {
-        source: '/pinterest',
-        destination: 'https://id.pinterest.com/romanromannya',
-        permanent: true,
-      },
-      {
-        source: '/patreon',
-        destination: 'https://www.patreon.com/mewwme',
-        permanent: true,
-      },
-      {
         source: '/madebytragic',
         destination: 'https://discord.gg/6EXgrmtkPX',
         permanent: true,
-      },
+      }
     ];
   }, 
   trailingSlash: false // Tambahkan opsi trailingSlash di sini
