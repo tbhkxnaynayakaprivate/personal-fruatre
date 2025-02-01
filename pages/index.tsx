@@ -3,7 +3,7 @@ import Image from "next/image";
 import Banners from "../components/Banner";
 
 const name = "Fruatre";
-const belowLink = "いつか、私がヒトじゃなくなっても";
+const belowLink = "悪魔の王の夢";
 /*const bio = "Blogger | Dreamer | Observer 🗿";*/
 
 const servername = "Made by Fruatre";
