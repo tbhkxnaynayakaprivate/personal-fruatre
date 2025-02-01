@@ -46,19 +46,19 @@ function MyApp({ Component, pageProps }: AppProps) {
       <Analytics />
 
       <NextSeo
-        title="L RMN  | いつか、私がヒトじゃなくなっても"
-        titleTemplate="L RMN - Mostly Sleepless"
-        defaultTitle="L RMN  | Mostly Sleepless"
-        description="Hey! I'm L RMN , I love exploring everything related to technology. Aside from that, I have a great interest in the world of photography, especially virtual photography in video games!"
+        title="Fruatre Maou | 悪魔の王の夢"
+        titleTemplate="Fruatre Maou - Mostly Sleepless"
+        defaultTitle="Fruatre Maou | Mostly Sleepless"
+        description="Hey! I'm Fruatre, I love exploring everything related to technology. Aside from that, I have a great interest in the world of photography, especially virtual photography in video games!"
         openGraph={{
-          url: "https://hi-lrmn.is-a.dev/",
-          title: "L RMN | いつか、私がヒトじゃなくなっても",
+          url: "http://wa.me/6285817597752",
+          title: "Fruatre Maou | 悪魔の王の夢",
           description:
-            "Hey! I'm L RMN , I love exploring everything related to technology. Aside from that, I have a great interest in the world of photography, especially virtual photography in video games!",
+            "Hey! I'm Fruatre , I love exploring everything related to technology. Aside from that, I have a great interest in the world of photography, especially virtual photography in video games!",
           images: [
             {
               url: "https://hi-lrmn.is-a.dev/og-image.png",
-              alt: "L RMN  | いつか、私がヒトじゃなくなっても",
+              alt: "Fruatre Maou | いつか、私がヒトじゃなくなっても",
             },
           ],
         }}
@@ -71,7 +71,7 @@ function MyApp({ Component, pageProps }: AppProps) {
           {
             property: "keywords",
             content:
-              "Virtual Photography, Blogger, Discord Bot Developer, Web Developer, Mewwme's, Web Developer, Discord Music Bot, tech enthusiast, open source",
+              "Gaming, Coding, Virtual Photography, Blogger, Whatsapp Bot Developer, Student,Anime, Sleep Lover",
           },
         ]}
       />
