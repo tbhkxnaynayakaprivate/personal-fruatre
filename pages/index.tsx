@@ -2,11 +2,11 @@ import { NowPlaying } from "../components";
 import Image from "next/image";
 import Banners from "../components/Banner";
 
-const name = "Fruatre";
+const name = "Fruatre Maou";
 const belowLink = "悪魔の王の夢";
 /*const bio = "Blogger | Dreamer | Observer 🗿";*/
 
-const servername = "Made by Fruatre";
+const servername = "Made by Fruatre Maou";
 
 export default function Home() {
   return (
