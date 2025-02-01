@@ -50,11 +50,6 @@ module.exports = {
         source: '/spotify',
         destination: 'https://open.spotify.com/user/31urnjrljaimmmf52sealktmdz3i/',
         permanent: true,
-      },
-      {
-        source: '/madebytragic',
-        destination: 'https://discord.gg/6EXgrmtkPX',
-        permanent: true,
       }
     ];
   }, 
